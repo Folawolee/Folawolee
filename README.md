@@ -1,15 +1,14 @@
 Fola Adesina
 
-Mechanical Engineer building AI-powered software for real-world industries.
+Mechanical Engineer building AI-powered software for physical operations industries.
 
-I'm interested in Artificial Intelligence, industrial automation, and scalable SaaS products. My current work focuses on construction technology, energy intelligence, and enterprise software.
+I'm interested in Robotics & Artificial Intelligence, industrial automation, and scalable SaaS products. My current work focuses on construction technology and energy intelligence.
 
 Currently
 
-* Building enterprise software for the construction industry
+* Building Baymax - AI Operations Software for Construction & Field Operations
 * Exploring machine learning and Physical AI
-* Learning distributed systems and cloud infrastructure
 
-> Building technology that solves practical problems.
+> I build technology that solves field operations problems 
 
 
